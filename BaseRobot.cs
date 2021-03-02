@@ -60,8 +60,8 @@ using Robocode;
         
         
         /// <summary>
-        /// Make your robot truly unique not only in behaviour,
-        /// but also in looks by applying the vast selection of System.Drawing.Colors to your robots body
+        /// Make your robot truly unique not only in behaviour, but also in looks.
+        /// Applies a curated selection of System.Drawing.Colors to your robot's various body parts, projectiles and diagnostic tools
         /// </summary>
         private void MakeMePretty()
         {
