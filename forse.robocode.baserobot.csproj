@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <AssemblyName>YourTeamName.YourRobotNickname</AssemblyName>
+        <RootNamespace>YourTeamName</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="robocode, Version=1.9.3.1, Culture=neutral, PublicKeyToken=43c1c8ae0e25a953">
+        <HintPath>libs\robocode.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>
